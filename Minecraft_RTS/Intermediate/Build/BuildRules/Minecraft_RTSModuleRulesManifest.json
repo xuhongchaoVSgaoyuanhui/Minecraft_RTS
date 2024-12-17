@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\demo\\Minecraft_RTS\\Minecraft_RTS\\Source\\Minecraft_RTS\\Minecraft_RTS.Build.cs",
+		"D:\\demo\\Minecraft_RTS\\Minecraft_RTS\\Source\\Minecraft_RTS.Target.cs",
+		"D:\\demo\\Minecraft_RTS\\Minecraft_RTS\\Source\\Minecraft_RTSEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Minecraft_RTS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\demo\Minecraft_RTS\Minecraft_RTS\Intermediate\Build\Win64\x64\Minecraft_RTSEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\demo\Minecraft_RTS\Minecraft_RTS\Intermediate\Build\Win64\x64\UnrealEditor\Development\Minecraft_RTS\Minecraft_RTS.cpp.obj"
+"D:\demo\Minecraft_RTS\Minecraft_RTS\Intermediate\Build\Win64\x64\UnrealEditor\Development\Minecraft_RTS\Default.rc2.res"
+/OUT:"D:\demo\Minecraft_RTS\Minecraft_RTS\Intermediate\Build\Win64\x64\UnrealEditor\Development\Minecraft_RTS\UnrealEditor-Minecraft_RTS.lib"

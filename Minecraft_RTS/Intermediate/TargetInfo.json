@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Minecraft_RTS",
+			"Path": "..\\Source\\Minecraft_RTS.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Minecraft_RTSEditor",
+			"Path": "..\\Source\\Minecraft_RTSEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

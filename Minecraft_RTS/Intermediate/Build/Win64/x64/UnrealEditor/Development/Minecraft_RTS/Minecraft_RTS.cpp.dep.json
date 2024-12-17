@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\demo\\minecraft_rts\\minecraft_rts\\source\\minecraft_rts\\minecraft_rts.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\demo\\minecraft_rts\\minecraft_rts\\intermediate\\build\\win64\\x64\\minecraft_rtseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\demo\\minecraft_rts\\minecraft_rts\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\minecraft_rts\\definitions.minecraft_rts.h",
+            "d:\\demo\\minecraft_rts\\minecraft_rts\\source\\minecraft_rts\\minecraft_rts.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
