@@ -4,3 +4,10 @@ Minecraft_RTSBinariesAndroidMinecraft_RTS-Android-Shipping-arm64.apk filter=lfs 
 Minecraft_RTSBinariesAndroidMinecraft_RTS-Android-Shipping_universal.apk filter=lfs diff=lfs merge=lfs -text
 Minecraft_RTSBinariesWin64Minecraft_RTS-Win64-Shipping.pdb filter=lfs diff=lfs merge=lfs -text
 Minecraft_RTSIntermediateAndroidarm64assetsmain.obb.png filter=lfs diff=lfs merge=lfs -text
+Minecraft_RTSIntermediateAndroidarm64gradleappbuildintermediatescompressed_assetsdebugoutassetsmain.obb.png.jar filter=lfs diff=lfs merge=lfs -text
+Minecraft_RTSIntermediateAndroidarm64gradleappbuildoutputsapkdebugapp-debug.apk filter=lfs diff=lfs merge=lfs -text
+Minecraft_RTSIntermediateAndroidarm64gradleappsrcmainassetsmain.obb.png filter=lfs diff=lfs merge=lfs -text
+Minecraft_RTSSavedStagedBuildsAndroid_ASTC.obb filter=lfs diff=lfs merge=lfs -text
+Minecraft_RTSIntermediateAndroidarm64gradleappbuildintermediatesassetsdebugmain.obb.png filter=lfs diff=lfs merge=lfs -text
+Minecraft_RTSSavedStagedBuildsAndroid_ASTCMinecraft_RTSContentPaksMinecraft_RTS-Android_ASTC.pak filter=lfs diff=lfs merge=lfs -text
+Minecraft_RTSSavedStagedBuildsWindowsMinecraft_RTSContentPaksMinecraft_RTS-Windows.pak filter=lfs diff=lfs merge=lfs -text
