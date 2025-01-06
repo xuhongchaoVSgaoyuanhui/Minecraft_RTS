@@ -1,0 +1,5 @@
+Minecraft_RTS\Binaries\Android\Minecraft_RTS-Android-Shipping.aab 
+Minecraft_RTS\Binaries\Win64\Minecraft_RTS-Win64-Shipping.pdb 
+Minecraft_RTS\Saved\StagedBuilds\Android_ASTC.obb  
+Minecraft_RTS\Saved\StagedBuilds\Android_ASTC\Minecraft_RTS\Content\Paks\Minecraft_RTS-Android_ASTC.pak 
+Minecraft_RTS\Saved\StagedBuilds\Windows\Minecraft_RTS\Content\Paks\Minecraft_RTS-Windows.pak
